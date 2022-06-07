@@ -9,3 +9,6 @@ Star wars
 Interstellar
 Pull fiction
 
+Juan magan
+Calvin harrys
+David Guetta
