@@ -10,3 +10,8 @@ libro3
 pelicula1
 pelicula2
 pelicula3
+
+# 3 discos
+disco1
+disco2
+disco3
